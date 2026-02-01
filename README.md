@@ -21,7 +21,7 @@ By analyzing historical data, this project helps understand content trends, audi
 - **Pandas** – data manipulation and analysis  
 - **NumPy** – numerical operations  
 - **Matplotlib / Seaborn** – data visualization  
-- **Jupyter Notebook** (optional, if used)
+- **Jupyter Notebook** 
 
 ---
 
